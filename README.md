@@ -1,0 +1,1 @@
+# Power-and-Heat-Management-in-Embedded-Systems-Survey-Research
